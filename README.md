@@ -34,7 +34,38 @@
 - What are the relationships between product categories, sales methods, retailers, and sales revenue?
 
 ## Findings
-**In 2021, total revenue increased by 296%, but the average deal size decreased by 38% compared to 2020**
- => What could be the reasons for these trends?
- - 
+- **In 2021, total revenue increased by 296%, but the average deal size decreased by 38% compared to 2020**
+  
+  The reasons for these trends:
+  + The average selling price decreased by 12.35% compared to 2020
+  + There is one new retailer, Amazon, contributing 10.83% to total sales in 2021 and Amazon's sales are equal to 43% of 2020 total sales
+  + Adidas expands sales area, from 9 states to 46 states by 2021
+    
+  Assumption about the decrease in average deal size (not enough data to conclude)
+  + Because Adidas expands its sales area, new customers will tend to place small orders first
+ 
+- **The online sales method showed the most significant growth, highlighting a substantial shift towards online shopping**
+  
+  (Online sales grew from being the least significant sales method in 2020 to being almost on par with in-store sales in 2021)
+  
+  => The Covid pandemic changed sales method trends?
+   
+ - **In-store sales still lead in total sales, increased from $9.4M in 2020 to $26.3M in 2021**
 
+   => Customers prefer to try on athletic shoes before purchasing to ensure the right fit?
+
+ - **Men's street footwear has been the best-selling product for 2 years in a row**
+
+ - **For men's products, street footwear is the best-seller, while for women's products, apparel tops the sales**
+ - **Small orders are significantly concentrated in the price range of 30 - 50 dollars**
+ - **There are peaks in the number of units sold in the price range of 50 - 65 dollars**
+
+ => New customers often prefer to minimize risk when trying a new product or brand. They may place small orders to test the product quality and service before committing to larger purchases
+ 
+## Recommendations:
+- **Implement targeted promotions aimed at new customers**: introductory offers, first-time buyer discounts, or limited-time promotions to attract new customers
+- **Enhance in-store user experience**:
+    + Ensure the store is visually appealing with clean, well-organized displays
+    + Train staff to be knowledgeable, friendly, and assist customers effectively
+    + Ensure the checkout process is fast and efficient, with multiple payment options available
+    + Use technology to help customers find the right shoe for their feet (Example: The Athlete's Foot: Shoes Finder - Find your perfect fit in 5 minutes)
