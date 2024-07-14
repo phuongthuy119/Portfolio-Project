@@ -50,15 +50,19 @@
   
   => The Covid pandemic changed sales method trends?
    
- - **In-store sales still lead in total sales, increased from $9.4M in 2020 to $26.3M in 2021**
+- **In-store sales still lead in total sales, increased from $9.4M in 2020 to $26.3M in 2021**
 
    => Customers prefer to try on athletic shoes before purchasing to ensure the right fit?
 
- - **Men's street footwear has been the best-selling product for 2 years in a row**
+- **Men's street footwear has been the best-selling product for 2 years in a row**
+ 
+- **For men's products, street footwear is the best-seller, while for women's products, apparel tops the sales**
 
- - **For men's products, street footwear is the best-seller, while for women's products, apparel tops the sales**
- - **Small orders are significantly concentrated in the price range of 30 - 50 dollars**
- - **There are peaks in the number of units sold in the price range of 50 - 65 dollars**
+- **Revenue from men's product lines is 16.8% higher than revenue from women's product lines**
+  
+- **Small orders are significantly concentrated in the price range of 30 - 50 dollars**
+  
+- **There are peaks in the number of units sold in the price range of 50 - 65 dollars**
 
  => New customers often prefer to minimize risk when trying a new product or brand. They may place small orders to test the product quality and service before committing to larger purchases
  
@@ -69,3 +73,7 @@
     + Train staff to be knowledgeable, friendly, and assist customers effectively
     + Ensure the checkout process is fast and efficient, with multiple payment options available
     + Use technology to help customers find the right shoe for their feet (Example: The Athlete's Foot: Shoes Finder - Find your perfect fit in 5 minutes)
+- **Conduct research to understand why fewer women are buying Adidas shoes. Identify any gaps in the product line, marketing strategies, or customer preferences**
+- **Develop marketing campaigns that specifically target female customers. Collaborate with female athletes, celebrities, or influencers to promote Adidas shoes**
+- **Leveraging the popularity of the best-selling product to strengthen Adidas's market position and draw attention from customers**
+- **Improve features, quality, or design of underperforming products based on customer feedback and develop specific marketing campaigns to raise awareness of those products**
